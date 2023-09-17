@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-intelogis/static/css/main.fde6acfc.css",
+    "main.js": "/test-task-intelogis/static/js/main.c499aa35.js",
+    "index.html": "/test-task-intelogis/index.html",
+    "main.fde6acfc.css.map": "/test-task-intelogis/static/css/main.fde6acfc.css.map",
+    "main.c499aa35.js.map": "/test-task-intelogis/static/js/main.c499aa35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fde6acfc.css",
+    "static/js/main.c499aa35.js"
+  ]
+}
